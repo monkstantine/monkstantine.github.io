@@ -18,6 +18,10 @@
 		{
 			key: 'devops',
 			value: 'DevOps'
+		},
+		{
+			key: 'etc',
+			value: 'Etc.'
 		}
 	];
 </script>
